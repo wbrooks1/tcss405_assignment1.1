@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="text">Text</string>
+    <string name="image">Image</string>
+    <string name="web">Web</string>
+    <string name="toast">Toast</string>
+    <string name="dialog">Dialog</string>
+    <string name="dialog_title">Dialog</string>
+    <string name="dialog_message">TODO: Make dialog do something</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="message">I will graduate in March. Over the summer I interned with Amazon
+    and after graduating I will be working on the Kindle for Android and iOS apps.  I am really
+    excited about this class because I will be doing mobile development after graduating.</string>
+</resources>
